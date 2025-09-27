@@ -2,7 +2,6 @@
 layout: default
 title: Copyright Guide
 nav_order: 0
-description: "Data Management Services at the University of Idaho Library"
 ---
 
 # U of I Library Copyright Guide

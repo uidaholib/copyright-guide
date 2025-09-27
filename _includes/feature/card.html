@@ -1,5 +1,5 @@
 <div class="{{include.div-class}}">
-    <div class="card mb-3 {{include.card-class}}">
+    <div class="alert mb-3 {{include.card-class}}">
         {% if include.header %}<h2 class="card-header">{{ include.header }}</h2>{% endif %}
         <div class="card-body">
         {% if include.title %}<h2 class="card-title" id="{{ include.title | slugify }}">{{ include.title }}</h2>{% endif %}
