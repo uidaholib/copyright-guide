@@ -1,6 +1,6 @@
 ---
 title: Plagiarism
-parent: Teaching
+parent: Copyright in Teaching
 nav_order: 7
 ---
 

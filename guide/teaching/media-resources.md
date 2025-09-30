@@ -1,6 +1,6 @@
 ---
 title: Media Resources
-parent: Teaching
+parent: Copyright in Teaching
 nav_order: 5
 ---
 

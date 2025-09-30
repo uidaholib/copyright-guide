@@ -1,6 +1,6 @@
 ---
 title: Works for Hire
-parent: Research
+parent: Copyright in Research
 nav_order: 5
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Theses/Dissertations
-parent: Research
+parent: Copyright in Research
 nav_order: 6
 ---
 

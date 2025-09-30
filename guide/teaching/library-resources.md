@@ -1,6 +1,6 @@
 ---
 title: Library Resources
-parent: Teaching
+parent: Copyright in Teaching
 nav_order: 4
 ---
 

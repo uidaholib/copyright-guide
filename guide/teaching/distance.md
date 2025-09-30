@@ -1,6 +1,6 @@
 ---
 title: Distance Education/Virtual Instruction
-parent: Teaching
+parent: Copyright in Teaching
 nav_order: 2
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Reversion of Rights
-parent: Research
+parent: Copyright in Research
 nav_order: 4
 ---
 

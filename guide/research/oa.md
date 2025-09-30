@@ -1,6 +1,6 @@
 ---
 title: Open Access
-parent: Research
+parent: Copyright in Research
 nav_order: 3
 ---
 

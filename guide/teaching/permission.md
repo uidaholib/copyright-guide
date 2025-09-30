@@ -1,6 +1,6 @@
 ---
 title: Securing Permission
-parent: Teaching
+parent: Copyright in Teaching
 nav_order: 6
 ---
 

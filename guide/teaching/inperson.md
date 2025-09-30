@@ -1,6 +1,6 @@
 ---
 title: Face-to-Fact Instruction
-parent: Teaching
+parent: Copyright in Teaching
 nav_order: 1
 ---
 

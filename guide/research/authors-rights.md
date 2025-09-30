@@ -1,6 +1,6 @@
 ---
 title: Authors' Rights
-parent: Research
+parent: Copyright in Research
 nav_order: 1
 ---
 

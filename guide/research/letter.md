@@ -1,6 +1,6 @@
 ---
 title: Sample Permission Letter
-parent: Research
+parent: Copyright in Research
 nav_order: 7
 ---
 

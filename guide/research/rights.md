@@ -1,6 +1,6 @@
 ---
 title: Managing Your Rights
-parent: Research
+parent: Copyright in Research
 nav_order: 2
 ---
 

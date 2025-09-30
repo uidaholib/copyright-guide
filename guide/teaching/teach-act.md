@@ -1,6 +1,6 @@
 ---
 title: The TEACH Act
-parent: Teaching
+parent: Copyright in Teaching
 nav_order: 3
 ---
 
