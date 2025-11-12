@@ -6,7 +6,7 @@ nav_order: 1
 
 # Authors' Rights
 
-Under the U.S. Copyright Act, authors automatically obtain the copyright to their work from the moment the "original work of authorship is fixed in a tangible medium of expression," and retains it until such time as they assign it to someone else. They are granted the exclusive rights of reproduction, distribution, public performance, public display, and modification of the original work (Learn more under [What is Copyright?](https://uidaholib.github.io/copyright-guide/guide/basics/what/).)
+Under the U.S. Copyright Act, authors automatically obtain the copyright to their work from the moment the "original work of authorship is fixed in a tangible medium of expression," and retains it until such time as they assign it to someone else. They are granted the exclusive rights of reproduction, distribution, public performance, public display, and modification of the original work (Learn more under [What is Copyright?](https://uidaholib.github.io/copyright-guide/guide/basics/what/))
 
 In academia, many authors sign agreements with publishers without realizing exactly what rights they are surrendering. Some faculty members, for instance, have discovered that they cannot even place copies of their own published articles on their website without first securing permission from the publisher. As a result, more and more faculty members are now adding terms to their publishing contracts which permit them to retain certain rights or choosing to publish via [open access](https://uidaholib.github.io/copyright-guide/guide/research/oa/).
 
