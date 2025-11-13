@@ -30,8 +30,11 @@ I would greatly appreciate your consent to my request. If you require any additi
 A duplicate copy of this request has been provided for your records. If you agree with the terms as described above, please sign both copies of the release form below and return by email or send one copy with the self-addressed return envelope I have provided. 
 
 Sincerely, 
+
 \[Signature\] 
+
 \[Typed name\]
+
 
 By signing below, I warrant that I have the right to grant the permission requested in this letter, and that I provide you with that permission.
 
