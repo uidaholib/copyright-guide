@@ -18,7 +18,7 @@ It is up to you to decide whether you will assign all of your rights, some of th
 - Posting your work on your website; or
 - Adding your research to your institutional repository, such as University of Idaho's IR, [VERSO](https://www.lib.uidaho.edu/verso/).
 
-Keep in mind, the decision to assign copyright is serious and can have significant implications for the future availability of your work. While [reclaiming copyright](https://uidaholib.github.io/copyright-guide/guide/research/reversion/) is possible under the U.S. Copyright Act, it takes several decades for a work to qualify. Find suggestions and resourcesfor tackling this process on [Managing Your Rights](https://uidaholib.github.io/copyright-guide/guide/research/rights/). 
+Keep in mind, the decision to assign copyright is serious and can have significant implications for the future availability of your work. While [reclaiming copyright](https://uidaholib.github.io/copyright-guide/guide/research/reversion/) is possible under the U.S. Copyright Act, it takes several decades for a work to qualify. This guide provides suggestions and resources for [managing your rights](https://uidaholib.github.io/copyright-guide/guide/research/rights/) page. 
 
 ## Considerations for Employees
 
