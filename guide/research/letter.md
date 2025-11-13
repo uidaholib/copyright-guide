@@ -22,4 +22,5 @@ I am on the faculty at the University of Idaho where I teach in the \[your depar
 
 If you require any additional information, please do not hesitate to contact me. I can be reached at: \[Your contact information\] A duplicate copy of this request has been provided for your records. If you agree with the terms as described above, please sign the release form below and send one copy with the self-addressed return envelope I have provided. 
 
-Sincerely, \[Signature\] \[Typed name\]
+Sincerely, 
+\[Signature\] \[Typed name\]
