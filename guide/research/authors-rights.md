@@ -6,7 +6,7 @@ nav_order: 1
 
 # Authors' Rights
 
-Under [Section 102 of the U.S. Copyright Act](https://www.copyright.gov/title17/92chap1.html#:~:text=Agreements%20Act.27-,102.%20Subject%20matter%20of%20copyright%3A%20In%20general,-28), authors automatically obtain the copyright to their work from the moment it is "fixed in a tangible medium of expression," and retains it until such time as they assign it to someone else. They are granted the exclusive rights of reproduction, distribution, public performance, public display, and modification of the original work (Learn more under [What is Copyright?](https://uidaholib.github.io/copyright-guide/guide/basics/what/))
+Under [Section 102 of the U.S. Copyright Act](https://www.copyright.gov/title17/92chap1.html#:~:text=Agreements%20Act.27-,102.%20Subject%20matter%20of%20copyright%3A%20In%20general,-28), authors automatically obtain the copyright to their work from the moment it is "fixed in a tangible medium of expression," and retains it until such time as they assign it to someone else. They are granted the exclusive rights of reproduction, distribution, public performance, public display, and modification of the original work (learn more under [What is Copyright?](https://uidaholib.github.io/copyright-guide/guide/basics/what/).
 
 In academia, many authors sign agreements with publishers without realizing exactly what rights they are surrendering. Some faculty members, for instance, have discovered that they cannot even place copies of their own published articles on their website without first securing permission from the publisher. As a result, more and more faculty members are now adding terms to their publishing contracts which permit them to retain certain rights or choosing to publish via [open access](https://uidaholib.github.io/copyright-guide/guide/research/oa/).
 
@@ -18,7 +18,7 @@ It is up to you to decide whether you will assign all of your rights, some of th
 - Posting your work on your website; or
 - Adding your research to your institutional repository, such as University of Idaho's IR, [VERSO](https://www.lib.uidaho.edu/verso/).
 
-Keep in mind, the decision to assign copyright is serious and can have significant implications for the future availability of your work. While [reclaiming copyright](https://uidaholib.github.io/copyright-guide/guide/research/reversion/) is possible under the U.S. Copyright Act, it takes several decades for a work to qualify. This guide provides suggestions and resources for [managing your rights](https://uidaholib.github.io/copyright-guide/guide/research/rights/) page. 
+Keep in mind, the decision to assign copyright is serious and can have significant implications for the future availability of your work. While [reclaiming copyright](https://uidaholib.github.io/copyright-guide/guide/research/reversion/) is possible under the U.S. Copyright Act, it takes several decades for a work to qualify. This guide provides suggestions and resources for [managing your rights](https://uidaholib.github.io/copyright-guide/guide/research/rights/). 
 
 ## Considerations for Employees
 
