@@ -6,7 +6,7 @@ nav_order: 2
 
 # Managing Your Rights
 
-Managing your copyright effectively will benefit you now and in the future. Traditional publication agreements typically require a transfer of copyright from the author to the publisher; these arrangements, which are variously known as "Copyright Transfer Agreements" or "Publication Agreements," often transfer all of your rights to the publisher as a single bundle. While this may work for some, it is not always in the best interest of the author\(—\)or their work\(—\)to do so, which is why it's critical to know your options when seeking a publisher. 
+Managing your copyright effectively will benefit you now and in the future. Traditional publication agreements typically require a transfer of copyright from the author to the publisher; these arrangements, which are variously known as "Copyright Transfer Agreements" or "Publication Agreements," often transfer all of your rights to the publisher as a single bundle. While this may work for some, it is not always in the best interest of the author\(—\)or their work\(—\)to do so, which is why it's critical to know your options when seeking a publisher.
 
 ## Research which publishers have the best agreements for your needs
 
@@ -27,7 +27,7 @@ There are many publishers who are willing to negotiate the publishing agreement.
 
 ### Retain copyright and license specific rights to publisher
 
-Rather than assigning your copyright to the publisher, consider granting them an exclusive or non-exclusive license. An exclusive license is one in which the copyright holder grants to the publisher sole permission for using the work for a certain period of time. A non-exclusive license is when the copyright holder allows multiple people to use the work. For examples of non-exclusive licenses, check into [Creative Commons](http://www.creativecommons.org/) licenses.
+Rather than transfering ownership of your work to the publisher, consider granting them an exclusive or non-exclusive license. An exclusive license is one in which the copyright holder grants to the publisher sole permission for using the work for a certain period of time. A non-exclusive license is when the copyright holder allows multiple people to use the work. For examples of non-exclusive licenses, check into [Creative Commons](http://www.creativecommons.org/) licenses.
 
 ## Additional Resources
 
