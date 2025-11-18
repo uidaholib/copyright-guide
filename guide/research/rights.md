@@ -6,7 +6,7 @@ nav_order: 2
 
 # Managing Your Rights
 
-Managing your copyright effectively will benefit you now and in the future. Traditional publication agreements typically require a transfer of copyright from the author to the publisher; these arrangements, which are variously known as "Copyright Transfer Agreements" or "Publication Agreements," often transfer all of your rights to the publisher as a single bundle. While this make work for some, it is not always in the best interest of the author\(—\)or their work\(—\)to do so, which is why it's critical to know your options when seeking a publisher. 
+Managing your copyright effectively will benefit you now and in the future. Traditional publication agreements typically require a transfer of copyright from the author to the publisher; these arrangements, which are variously known as "Copyright Transfer Agreements" or "Publication Agreements," often transfer all of your rights to the publisher as a single bundle. While this may work for some, it is not always in the best interest of the author\(—\)or their work\(—\)to do so, which is why it's critical to know your options when seeking a publisher. 
 
 ## Research which publishers have the best agreements for your needs
 
@@ -31,4 +31,5 @@ Rather than assigning your copyright to the publisher, consider granting them an
 
 ## Additional Resources
 
+- [Negotiating Author-Friendly Publication Agreements](https://guides.lib.uconn.edu/negotiatepub/) - University of Connecticut
 - [Reserving Rights of Use in Works Submitted for Publication: Negotiating Publishing Agreements](https://www.american.edu/library/documents/upload/rc_publishing.pdf) - Kenneth Crews, Indiana University
