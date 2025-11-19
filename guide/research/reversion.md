@@ -14,7 +14,7 @@ Congress recognized that there is unequal bargaining power in such a situation a
 
 Eligibility for terminating a grant of copyright transfer depends on several factors, including date of publication and/or transfer. Authors must also notify the copyright holder of their desire to terminate within a set window, as specified below.
 
-###For transfers of copyright that have been made by authors _on_ or _after_ January 1, 1978:
+### For transfers of copyright that have been made by authors _on_ or _after_ January 1, 1978:
 
 - Termination must occur either 35 years from publication or 40 years from the date of assignment of copyright to a publisher.
 - Termination must occur within a 5 year period or the reversion right is forfeited.
@@ -22,7 +22,7 @@ Eligibility for terminating a grant of copyright transfer depends on several fac
 
 **Example:** If the work is published in 1978, then the termination window is 2013-2018. The notice must be submitted no later than 2016 and no earlier than 2003.
 
-###For transfers of copyright that have been made by authors _prior_ to January 1, 1978:
+### For transfers of copyright that have been made by authors _prior_ to January 1, 1978:
 
 - Termination must occur between 56-61 years after copyright is secured.
 - Termination must occur within a 5 year period or the reversion right is forfeited.
