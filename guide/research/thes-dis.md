@@ -10,7 +10,7 @@ When you prepare your thesis or dissertation, you are both author and copyright 
 
 When you use other people's works or incorporate third-party content into your work, your use must either be authorized under the [fair use](#whatisfairuse) exception or [permission](#permission) must be sought from the copyright holder.
 
-##Publishing Your Thesis or Dissertation
+## Publishing Your Thesis or Dissertation
 
 As an author of a dissertation, and many times of a thesis as well, you will be required to submit your work to ProQuest, a company who collects, organizes and disseminates dissertations from universities across the country. 
 
@@ -18,7 +18,7 @@ In order for ProQuest to accept your work, you will have to sign an agreement wi
 
 Once published, your thesis or dissertation can be found using [ProQuest’s Dissertations & Theses Global](https://www.proquest.com/pqdtglobal?accountid=14551) database. As of 2012, all University of Idaho theses and dissertations are also uploaded to our institutional repository, [VERSO](https://verso.uidaho.edu/esploro/search/collections/UI-Theses-and-Dissertations/etds?institution=01ALLIANCE_UID). 
 
-##Resources
+## Additional Resources
 
 [Copyright and Your Dissertation or Thesis: Ownership, Fair Use, and Your Rights and Responsibilities](http://media2.proquest.com/documents/copyright_dissthesis_ownership.pdf) - written by a copyright expert from Columbia University, Kenneth D. Crews, this document explains copyright in detail and discusses, specifically, "Copyright Decisions and Your Dissertation" (Part III).
 
