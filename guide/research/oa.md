@@ -23,10 +23,10 @@ While the end result—free access to read the article—may be the same, journa
 
 Another common misconception of open access is that there is no copyright, meaning others can reuse and adapt the work as they see fit. However, as with traditional publishing models, copyright policies for OA journals vary. Being published in an open access journal does not automatically place the article or any of its content in the public domain, nor does it guarantee that the author retains copyright. 
 
-As such, it is still critical to know how to manage your rights when publishing in an OA journal. Some common arrangements include: 
+As such, it is still critical to know how to [manage your rights](https://uidaholib.github.io/copyright-guide/guide/research/rights/) when publishing in an OA journal. Some common arrangements include: 
 
 - The journal assumes copyright, but the author receives an exclusive license to share the work, such as depositing it in a repository
-- The journal assumes copyright but applies a Creative Commons license to the work, permitting </li>
+- The journal assumes copyright but applies a Creative Commons license to the work, permitting
 - The author retains copyright and issues an exclusive or non-exclusive license to the publisher to publish and disseminate the work
 
 Just as you would when publishing in a closed access journal, make sure to consider your copyright preferences when selecting an OA journal. This includes whether or not you would like to have a Creative Commons license applied to your work. 
