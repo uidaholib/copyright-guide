@@ -46,9 +46,9 @@ The University of Idaho Library maintains a number of resources to facilitate op
 
 ## Additional Resources
 
-- Peter Suber's excellent [Open Access Overview](https://knowledgeunbound.mitpress.mit.edu/pub/q9i5uziw/release/1);
-- A growing directory of open access journals at [Directory of Open Access Journals](http://www.doaj.org/);
-- [ArXiv](http://www.arxiv.org/) (Cornell) - The most extensive and longest-running open access repository provides open-access to e-prints in Physics, Mathematics, Computer Science, Quantitative Biology and Statistics;
-- A growing directory of open access repositories can be found at the [Directory of Open Access Repositories](http://v2.sherpa.ac.uk/opendoar/); and
-- [Open Courseware Initiative](http://ocw.mit.edu/index.html) (MIT) - This site hosts freely-available educational materials which are specifically meant to be copied and used by faculty members for non-commercial purposes.
-- [Copyright & Digital Scholarship Center](https://www.lib.ncsu.edu/department/copyright-digital-scholarship-center-cdsc) (North Carolina State University) - A wealth of information is available on this excellent website. Not only does it explain how open source publishing works, it also provides guidance for people who want to make their works freely available for all to use.
+- Peter Suber's excellent [Open Access Overview](https://knowledgeunbound.mitpress.mit.edu/pub/q9i5uziw/release/1)
+- A growing directory of open access journals at [Directory of Open Access Journals](http://www.doaj.org/)
+- [ArXiv](http://www.arxiv.org/) (Cornell) - The most extensive and longest-running open access repository provides open-access to e-prints in Physics, Mathematics, Computer Science, Quantitative Biology and Statistics
+- A growing directory of open access repositories can be found at the [Directory of Open Access Repositories](http://v2.sherpa.ac.uk/opendoar/)
+- [Open Courseware Initiative](http://ocw.mit.edu/index.html) (MIT) - This site hosts freely-available educational materials which are specifically meant to be copied and used by faculty members for non-commercial purposes
+- [Copyright & Digital Scholarship Center](https://www.lib.ncsu.edu/department/copyright-digital-scholarship-center-cdsc) (North Carolina State University) - A wealth of information is available on this excellent website. Not only does it explain how open source publishing works, it also provides guidance for people who want to make their works freely available for all to use
