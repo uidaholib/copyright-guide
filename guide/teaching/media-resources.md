@@ -55,13 +55,13 @@ Displays and performances of audiovisual works are prohibited in non-profit educ
 - They are shown in a public performance, to an audience not confined to students, and not related to educational instruction, such as a sporting events, club gatherings, or graduation ceremonies; or
 - They involve an illegally-acquired or illegally-duplicated copy of the work.
 
-## Online Teaching (Blackboard)
+## Online Teaching (Canvas)
 
 [Section 110](http://www.copyright.gov/title17/92chap1.pdf) of U.S. Copyright Law allows transmission of some materials to support true distance education, or online instruction that replaces regular classroom instruction (whether live or completed at the student's pace).
 
 The [TEACH Act](#TEACH) specifies conditions under which educators may perform or display copyrighted works in distance education or online environments, including using only "reasonable and limited portions" of works that do not qualify as non-dramatic literary or musical works. Films and other audiovisual materials typically fall into this category. Thus the ability to perform or display audiovisual works in distance education or online via the TEACH Act may be more limited than in classroom settings.
 
-[Section 1201](http://www.copyright.gov/title17/92chap12.html#1201) of U.S. Copyright Law further prohibits the circumvention of encryption or other technological measures applied to copyrighted works, regardless of whether the intended use would be a fair use. However, an [exemption](http://edocket.access.gpo.gov/2006/pdf/E6-20029.pdf) was established by the Copyright Office for film studies professors to create compilations or clips of encrypted films, for their use in a classroom setting. This exemption is set to expire on October 27, 2009.
+[Section 1201](http://www.copyright.gov/title17/92chap12.html#1201) of U.S. Copyright Law further prohibits the circumvention of encryption or other technological measures applied to copyrighted works, regardless of whether the intended use would be a fair use. However, an [exemption](http://edocket.access.gpo.gov/2006/pdf/E6-20029.pdf) was established by the Copyright Office for film studies professors to create compilations or clips of encrypted films, for their use in a classroom setting. This exemption expired on October 27, 2009.
 
 ## Public Performance
 
