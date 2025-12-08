@@ -8,7 +8,7 @@ nav_order: 6
 
 If you are seeking to use a copyrighted work, you may need to obtain permission from the copyright owner. The owner may be the original creator of the work or that person's employer. The original author may also have transferred the copyright to a publisher or some other party. In some instances, you may contact the owner directly. In other cases, you can secure permission on behalf of the owner by contacting a [collective licensing agency](#agencies).
 
-Oftentimes the copyright owner will require a fee or impose other conditions. You have to decide if the cost and conditions are acceptable, and you should feel free to negotiate. Remember, permission is not necessary if (1) your use is within [fair use](#whatisfairuse) or another copyright exemption pertains; (2) the work is not protected by copyright at all; or (3) your use is within the terms of a license agreement, including, for example, a [Creative Commons](http://creativecommons.org/) license from the author.
+Oftentimes the copyright owner will require a fee or impose other conditions. You have to decide if the cost and conditions are acceptable, and you should feel free to negotiate. Remember, permission is not necessary if (1) your use is within [fair use](#whatisfairuse) or another copyright exemption pertains; (2) the work is not protected by copyright at all; or (3) your use is within the terms of a license agreement, including, for example, a [Creative Commons](http://creativecommons.org/) license from the author. Most educational uses will not require seeking permission from the copyright holder.
 
 ## Identifying the Copyright Owner
 
