@@ -1,4 +1,4 @@
---.-
+---
 title: Creative Commons Licenses
 parent: Copyright Basics
 nav_order: 5

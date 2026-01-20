@@ -36,6 +36,7 @@ The following institutions have graciously permitted the University of Idaho to 
 - [University of California Community](https://copyright.universityofcalifornia.edu/)
 - [University of Connecticut](https://library.uconn.edu/about/policies-2/copyright/)
 - [University of Minnesota](https://www.lib.umn.edu/services/copyright)
+- [Univeristy of Tenessee](https://libguides.utk.edu/c.php?g=1401059&p=10366542)
 - [University of Washington](https://copyrightresource.uw.edu/)
 - [University System of Georgia](https://www.usg.edu/copyright/)
 - [Washington State University](https://printing.wsu.edu/copyright/)
