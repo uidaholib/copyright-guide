@@ -16,9 +16,9 @@ U.S. copyright law grants copyright owners the exclusive rights to:
 - perform the work publicly; and
 - display the work publicly
 
-The copyright owner may transfer or license one or more of these rights to others for a specific period of time or in perpetuity. In the case of works created by employees during the course of and within the scope of their employment, the employer is considered to be the author. U.S. copyright law defines such work as [works for hire](#hire).
+The copyright owner may transfer or license one or more of these rights to others for a specific period of time or in perpetuity. In the case of works created by employees during the course of and within the scope of their employment, the employer is considered to be the author. U.S. copyright law defines such work as works for hire.
 
-Exceptions and limitations to these exclusive rights are listed in Sections 107 through 122 of the first chapter of the U.S. Copyright Act. These exceptions are integral to the balance of exclusive rights on the one hand and productive, socially-beneficial new uses of works on the other.
+Exceptions and limitations to these exclusive rights are listed in Sections 107 through 122 of the first chapter of the [U.S. Copyright Act](https://www.copyright.gov/title17/). These exceptions are integral to the balance of exclusive rights on the one hand and productive, socially-beneficial new uses of works on the other.
 
 ## Additional Resources
 
@@ -32,8 +32,8 @@ A copyright may remain in effect for a long time. Determining the precise term c
 
 - As a general rule, a work published before January 1, 1978 is protected for 95 years from the date of first publication, or 120 years from the date of creation, whichever is longer, though there are numerous exceptions.
 - A work published after January 1, 1978 is protected for the life of the author plus 70 years.
-- [Works for hire](#hire), anonymous works, and pseudonymous works are protected for the 95-year or 120-year term described above.
-- Works published prior to 1923; works whose term of copyright protection have lapsed; or works that were not subject to copyright protection in the first place (e.g. a work of the U.S. Government), are said to be in the [public domain](#public). Such a work may be freely copied, distributed, performed, displayed, or otherwise used in ways unrestricted by copyright law.
+- Works for hire, anonymous works, and pseudonymous works are protected for the 95-year or 120-year term described above.
+- Works published prior to 1923; works whose term of copyright protection have lapsed; or works that were not subject to copyright protection in the first place (e.g. a work of the U.S. Government), are said to be in the public domain. Such a work may be freely copied, distributed, performed, displayed, or otherwise used in ways unrestricted by copyright law.
 
 ### Additional Resources
 
@@ -44,7 +44,7 @@ A copyright may remain in effect for a long time. Determining the precise term c
 
 [Section 106](http://www.copyright.gov/title17/92chap1.html#106) in Chapter 1 of the U.S. Copyright Act lists the five exclusive rights copyright owners have regarding their work. However, the next sixteen sections in the law set forth numerous exceptions and limitations to those rights. Five of these exceptions are particularly relevant within an educational setting:
 
-- [Section 107 Fair Use](http://www.copyright.gov/title17/92chap1.html#107) - This is probably the most well-known exception, yet it is also the most confusing and controversial. Fair use relies on a [four-factor use analysis](#whatisfairuse), and recognizes the public's interest in using copyrighted works both for educational purposes and to create new works.
+- [Section 107 Fair Use](http://www.copyright.gov/title17/92chap1.html#107) - This is probably the most well-known exception, yet it is also the most confusing and controversial. Fair use relies on a four-factor use analysis, and recognizes the public's interest in using copyrighted works both for educational purposes and to create new works.
 - [Section 108 Library Exception](http://www.copyright.gov/title17/92chap1.html#108) - Working in harmony with exceptions like fair use, the library exception assures that libraries serving the public and scholarly research communities will have access to copyrighted works for their non-commercial activities.
 - [Section 109 Right of First Sale](http://www.copyright.gov/title17/92chap1.html#109) - This exception makes it possible for anyone to redistribute their purchased copy of a copyrighted work by resale, lending or donation. It is one of the foundations on which libraries stand ready to lend materials in their collections to their user communities.
 - [Section 110(1) Face-to-Face Instruction](http://www.copyright.gov/title17/92chap1.html#110) - The U.S. Copyright Act allows educators and students to perform or display works in the course of face-to-face teaching activities at non-profit educational institutions, or in classrooms or similar places devoted to instruction. There is no limitation on the types or amounts of a work that can be performed or displayed except that an audiovisual work that is not lawfully made cannot be shown. This section authorizes, for example, displaying a picture, drawing, or photograph; showing an entire movie; acting out or performing a play or opera; and performing musical compositions as well as sound recordings.
@@ -52,7 +52,7 @@ A copyright may remain in effect for a long time. Determining the precise term c
 
 If the contemplated use of a copyrighted work does not qualify under the classroom teaching or distance education exceptions, then the more general fair use test is generally applied because that test is much broader and more flexible than all the others.
 
-The individual who is using the work must decide which (if any) exemption is applicable. This should be a conscious decision, rather than a decision by default or assumption. It is the responsibility of all members of the University of Idaho community to understand the exemptions and to make a good faith determination that the use of a copyrighted work is indeed permissible. If none of the exemptions is applicable, then [permission](#permission) should be requested for the use of the work.
+The individual who is using the work must decide which (if any) exemption is applicable. This should be a conscious decision, rather than a decision by default or assumption. It is the responsibility of all members of the University of Idaho community to understand the exemptions and to make a good faith determination that the use of a copyrighted work is indeed permissible. If none of the exemptions is applicable, then permission should be requested for the use of the work.
 
 ### Additional Resources
 
@@ -81,4 +81,4 @@ The public domain is generally defined as consisting of works that are either in
 
 Documents authored by the U.S. government are not copyrightable. [Section 105](http://www.copyright.gov/title17/92chap1.html#105) of the copyright law states that "copyright protection under this title is not available for any work of the United States Government, but the United States Government is not precluded from receiving and holding copyrights transferred to it by assignment, bequest, or otherwise."
 
-This means that most federal government documents are in the [public domain](#public) and may be freely quoted, reused, downloaded, and copied. However, other documents, including most foreign government documents, documents produced by states, and most intergovernmental agencies (i.e. the United Nations and the International Monetary Fund), or [works created under contract with the U.S government](http://cendi.dtic.mil/publications/04-8copyright.html#toc40), are not in the public domain.
+This means that most federal government documents are in the public domain and may be freely quoted, reused, downloaded, and copied. However, other documents, including most foreign government documents, documents produced by states, and most intergovernmental agencies (i.e. the United Nations and the International Monetary Fund), or [works created under contract with the U.S government](http://cendi.dtic.mil/publications/04-8copyright.html#toc40), are not in the public domain.
