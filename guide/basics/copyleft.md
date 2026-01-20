@@ -6,11 +6,11 @@ nav_order: 5
 
 # Copyleft and Creative Commons Licenses
 
-Some authors or rights holders might be interested relaxing some of the standard provisions of copyright, to help their works reach a larger audience or even potentially be remixed into a new creation. Broadly speaking, this practice is called copyleft. Within copyleft practices, Creative Commons Licenses are one of the most well known solutions for licensing content with some rights relaxe.
+Some authors or rights holders might be interested relaxing some of the standard provisions of copyright, to help their works reach a larger audience or even potentially be remixed into a new creation. Broadly speaking, this practice is called copyleft. Within copyleft practices, Creative Commons Licenses are one of the most well known solutions for licensing content with some rights relaxed.
 
 ## Creative Commons Licenses 
 
-This content appears courtesy of [CreativeCommons.org](https://creativecommons.org/share-your-work/cclicenses/).
+_This content appears courtesy of [CreativeCommons.org](https://creativecommons.org/share-your-work/cclicenses/)._
 
 Creative Commons licenses give everyone from individual creators to large institutions a standardized way to grant the public permission to use their creative work under copyright law. From the reuser’s perspective, the presence of a Creative Commons license on a copyrighted work answers the question, What can I do with this work?
 The CC License options
@@ -19,51 +19,58 @@ There are six different license types, listed from most to least permissive here
 
 ### CC BY
 
-This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. CC BY includes the following elements:
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. 
 
-BY: credit must be given to the creator.
+CC BY includes the following elements:
+-BY: credit must be given to the creator.
 
 ### CC BY-SA
 
-This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-SA includes the following elements:
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, so long as attribution is given to the creator. The license allows for commercial use. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. 
 
-BY: credit must be given to the creator.
-SA: Adaptations must be shared under the same terms.
+CC BY-SA includes the following elements:
+-BY: credit must be given to the creator.
+-SA: Adaptations must be shared under the same terms.
 
 ### CC BY-NC
 
-This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC includes the following elements:
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. 
 
-BY: credit must be given to the creator.
-NC: Only noncommercial uses of the work are permitted.
+CC BY-NC includes the following elements:
+-BY: credit must be given to the creator.
+-NC: Only noncommercial uses of the work are permitted.
 
 ### CC BY-NC-SA
 
-This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. CC BY-NC-SA includes the following elements:
+This license enables reusers to distribute, remix, adapt, and build upon the material in any medium or format for noncommercial purposes only, and only so long as attribution is given to the creator. If you remix, adapt, or build upon the material, you must license the modified material under identical terms. 
 
-BY: credit must be given to the creator.
-NC: Only noncommercial uses of the work are permitted.
-SA: Adaptations must be shared under the same terms.
-CC BY-ND
+CC BY-NC-SA includes the following elements:
+-BY: credit must be given to the creator.
+-NC: Only noncommercial uses of the work are permitted.
+-SA: Adaptations must be shared under the same terms.
 
-This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use. CC BY-ND includes the following elements:
+### CC BY-ND
 
-BY: credit must be given to the creator.
-ND: No derivatives or adaptations of the work are permitted.
+This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, and only so long as attribution is given to the creator. The license allows for commercial use. 
+
+CC BY-ND includes the following elements:
+-BY: credit must be given to the creator.
+-ND: No derivatives or adaptations of the work are permitted.
 
 ### CC BY-NC-ND
 
-This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. CC BY-NC-ND includes the following elements:
+This license enables reusers to copy and distribute the material in any medium or format in unadapted form only, for noncommercial purposes only, and only so long as attribution is given to the creator. 
 
-BY: credit must be given to the creator.
-NC: Only noncommercial uses of the work are permitted.
-ND: No derivatives or adaptations of the work are permitted.
-The CC0 Public Domain Dedication
+CC BY-NC-ND includes the following elements:
+-BY: credit must be given to the creator.
+-NC: Only noncommercial uses of the work are permitted.
+-ND: No derivatives or adaptations of the work are permitted.
 
-### CC0
+### The CC0 Public Domain Dedication
+
+## CC0
 
 CC0 (aka CC Zero) is a public dedication tool, which enables creators to give up their copyright and put their works into the worldwide public domain. CC0 enables reusers to distribute, remix, adapt, and build upon the material in any medium or format, with no conditions.
-Choosing a license
 
 ## Choosing a License 
 
@@ -78,7 +85,6 @@ Before you apply a CC license or CC0 to your work, there are some important thin
 The licenses and CC0 cannot be revoked. This means once you apply a CC license to your material, anyone who receives it may rely on that license for as long as the material is protected by copyright, even if you later stop distributing it.
 
 You must own or control copyright in the work. Only the copyright holder or someone with express permission from the copyright holder can apply a CC license or CC0 to a copyrighted work. If you created a work in the scope of your job, you may not be the holder of the copyright.
-
 
 ## How to apply a CC license or CC0 to your work
 
