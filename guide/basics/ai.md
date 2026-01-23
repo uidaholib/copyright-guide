@@ -18,7 +18,7 @@ _The Section above appears courtesy of [Univerity Tennessee Copyright Libguide](
 
 Individual journals will have their own policies regarding the use of generative AI on submitted manuscripts. Some will allow for its use in specific cases with author disclosure, while others may prohibit it entirely. 
 
-If AI was used in any part of the creation of your manuscript, including any graphics or auxiliary materials, make sure to review the desired journal’s AI policy before completing your submission. Be prepared to submit a disclosure outlining which AI tools were used, on which aspects of the manuscript, and how. 
+If AI was used in any part of the creation of your manuscript, including any graphics or auxiliary materials, make sure to review the desired journal’s AI policy before completing your submission. Be prepared to submit a disclosure outlining which AI tools were used, on which aspects of the manuscript, and how. (Check out the disclosure framework below to get started.)
  
 
 ## Additional Resources 
