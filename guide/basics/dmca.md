@@ -32,5 +32,6 @@ The fifth and last provision of the DMCA is designed to protect service provider
 
 ## Additional Resources
 
+- [Rulemaking Proceedings Under Section 1201 of Title 17](https://www.copyright.gov/1201/) - Information on the most recent DMCA exemptions and rulings
 - [Digital Millennium Copyright Act](http://www.copyright.gov/legislation/dmca.pdf) - original bill
 - [DMCA Overview](http://www.ala.org/advocacy/copyright/dmca) - American Library Association
