@@ -12,7 +12,7 @@ Original creative works made by human authors have copyright protection; current
 
 The U.S. Copyright Office recently released a [3-part report on AI and copyright that addresses digital replicas, copyrightability, and generative AI training.](https://www.copyright.gov/ai/) 
 
-_The Section above appears courtesy of [Univerity Tennessee Copyright Libguide](https://libguides.utk.edu/c.php?g=1401059\&p=10366542)_
+_The Section above appears courtesy of [University of Tennessee Copyright Libguide](https://libguides.utk.edu/c.php?g=1401059\&p=10366542)_
 
 ## Use of Generative AI in Scholarship 
 
