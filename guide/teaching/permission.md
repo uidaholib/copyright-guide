@@ -74,7 +74,8 @@ The rights to publicly perform a single piece of music from a musical play in a 
 
 Permission must be secured to reproduce, distribute, perform, display, or make derivative works of software. Nearly all software publishers may be contacted through their homepage on the Internet.
 
-- [CNET](http://www.cnet.com/) - Provides comprehensive reviews of software and also acts as a hub for the dissemination of free software through its download section.
+Some projects are published as [Open Source Software](https://en.wikipedia.org/wiki/Open-source_software).
+In these cases the source code is made available in repositories such as [GitHub](https://github.com/) along with a clear [license](https://opensource.org/licenses) that grants users rights to redistribute and edit the software.
 
 ### Syndicated Comics, Cartoons, and Editorials
 
