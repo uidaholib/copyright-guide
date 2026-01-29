@@ -1,8 +1,10 @@
 ---
-# see also guide.md
+# extra home page needed to maintain old reference link,
+# https://www.lib.uidaho.edu/copyright/guide.html
 layout: default
 title: Copyright Guide
-nav_order: 0
+nav_exclude: true
+permalink: /guide.html
 ---
 
 # U of I Library Copyright Guide
