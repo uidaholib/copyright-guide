@@ -6,9 +6,9 @@ nav_order: 6
 
 # Securing Permission
 
-If you are seeking to use a copyrighted work, you may need to obtain permission from the copyright owner. The owner may be the original creator of the work or that person's employer. The original author may also have transferred the copyright to a publisher or some other party. In some instances, you may contact the owner directly. In other cases, you can secure permission on behalf of the owner by contacting a [collective licensing agency](#agencies).
+If you are seeking to use a copyrighted work, you may need to obtain permission from the copyright owner. The owner may be the original creator of the work or that person's employer. The original author may also have transferred the copyright to a publisher or some other party. In some instances, you may contact the owner directly. In other cases, you can secure permission on behalf of the owner by contacting a [collective licensing agency]({{ '/guide/teaching/permission/#collective-licensing-agencies' | relative_url }}).
 
-Oftentimes the copyright owner will require a fee or impose other conditions. You have to decide if the cost and conditions are acceptable, and you should feel free to negotiate. Remember, permission is not necessary if (1) your use is within [fair use](#whatisfairuse) or another copyright exemption pertains; (2) the work is not protected by copyright at all; or (3) your use is within the terms of a license agreement, including, for example, a [Creative Commons](http://creativecommons.org/) license from the author. Most educational uses will not require seeking permission from the copyright holder.
+Oftentimes the copyright owner will require a fee or impose other conditions. You have to decide if the cost and conditions are acceptable, and you should feel free to negotiate. Remember, permission is not necessary if (1) your use is within [fair use]({{ '/guide/basics/fair-use/' | relative_url }}) or another copyright exemption pertains; (2) the work is not protected by copyright at all; or (3) your use is within the terms of a license agreement, including, for example, a [Creative Commons](http://creativecommons.org/) license from the author. Most educational uses will not require seeking permission from the copyright holder.
 
 ## Identifying the Copyright Owner
 
@@ -88,7 +88,7 @@ Permission must be secured to reproduce, distribute, perform, display, or make d
 
 ## Requesting Permission
 
-If your proposed use does not fit within the criteria for one of the exemptions discussed in the [Exceptions & Limitations](#exceptions) section, or if you do not have a license to use the work for your intended purpose, you will need to obtain permission from the owner of the work prior to using it.
+If your proposed use does not fit within the criteria for one of the exemptions discussed in the [Exceptions & Limitations]({{ '/guide/basics/what/#exceptions--limitations' | relative_url }}) section, or if you do not have a license to use the work for your intended purpose, you will need to obtain permission from the owner of the work prior to using it.
 
 ### Requests for permission should be in writing and include the following information:
 

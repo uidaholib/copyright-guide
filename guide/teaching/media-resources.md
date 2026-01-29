@@ -6,7 +6,7 @@ nav_order: 5
 
 # Media Resources
 
-The basic laws that govern the use of copyrighted materials are consistent regardless of media type. That is to say, the strictures that protect musical works from infringing activities are the same as those that protect books or video recordings or photographic images. And this same overlapping holds true for [constitutional exceptions](#exceptions) as well, for things like fair use and the face-to-face teaching exemption.
+The basic laws that govern the use of copyrighted materials are consistent regardless of media type. That is to say, the strictures that protect musical works from infringing activities are the same as those that protect books or video recordings or photographic images. And this same overlapping holds true for [constitutional exceptions]({{ '/guide/basics/what/#exceptions--limitations' | relative_url }}) as well, for things like fair use and the face-to-face teaching exemption.
 
 Due to the disparate nature of these different media types, however, and the emergence of new media over the past few decades, numerous guidelines and licensing agencies have sprung up in order to help educators remain in compliance.
 
@@ -59,7 +59,7 @@ Displays and performances of audiovisual works are prohibited in non-profit educ
 
 [Section 110](http://www.copyright.gov/title17/92chap1.pdf) of U.S. Copyright Law allows transmission of some materials to support true distance education, or online instruction that replaces regular classroom instruction (whether live or completed at the student's pace).
 
-The [TEACH Act](#TEACH) specifies conditions under which educators may perform or display copyrighted works in distance education or online environments, including using only "reasonable and limited portions" of works that do not qualify as non-dramatic literary or musical works. Films and other audiovisual materials typically fall into this category. Thus the ability to perform or display audiovisual works in distance education or online via the TEACH Act may be more limited than in classroom settings.
+The [TEACH Act]({{ '/guide/teaching/teach-act/' | relative_url }}) specifies conditions under which educators may perform or display copyrighted works in distance education or online environments, including using only "reasonable and limited portions" of works that do not qualify as non-dramatic literary or musical works. Films and other audiovisual materials typically fall into this category. Thus the ability to perform or display audiovisual works in distance education or online via the TEACH Act may be more limited than in classroom settings.
 
 [Section 1201](http://www.copyright.gov/title17/92chap12.html#1201) of U.S. Copyright Law further prohibits the circumvention of encryption or other technological measures applied to copyrighted works, regardless of whether the intended use would be a fair use. However, an [exemption](http://edocket.access.gpo.gov/2006/pdf/E6-20029.pdf) was established by the Copyright Office for film studies professors to create compilations or clips of encrypted films, for their use in a classroom setting. This exemption expired on October 27, 2009.
 

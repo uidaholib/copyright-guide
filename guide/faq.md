@@ -50,7 +50,7 @@ The U.S. Copyright Office issues an ongoing series of [Copyright Circulars](http
 
 ## What is fair use?
 
-Fair use refers to an exemption in the Copyright Act that can allow use without permission in some cases. There are four factors that must be considered along the way. You can read more about this in the [fair use section](#whatisfairuse).
+Fair use refers to an exemption in the Copyright Act that can allow use without permission in some cases. There are four factors that must be considered along the way. You can read more about this in the [fair use section]({{ '/guide/basics/fair-use/' | relative_url }}).
 
 ## If I'm copying something for an educational purpose, isn't that fair use?
 
@@ -58,7 +58,7 @@ It depends. Copying a copyrighted work for educational purposes doesn't automati
 
 ## What if I need to copy more than would be permitted under fair use?
 
-If none of the other copyright exceptions apply, then you will need to [secure permission](#permission) from the copyright owner before you use the material.
+If none of the other copyright exceptions apply, then you will need to [secure permission]({{ '/guide/teaching/permission/' | relative_url }}) from the copyright owner before you use the material.
 
 ## My request for permission was denied by the copyright owner. What can I do now?
 
@@ -74,7 +74,7 @@ Lack of response does not translate into a passive grant of permission to use. I
 
 ## What if I can't find current contact information for the copyright holder? For example the publisher is out of business or the author is deceased.
 
-Such situations present the problem of a work whose copyright holder cannot be located, despite reasonable efforts. The U.S. Copyright Office has recognized this problem, calling such works [orphan works](#orphan). Educators must make individual decisions concerning their use of such works, including evaluating the risk of liability. Those who proceed with their use should document and preserve their efforts to locate the copyright holder.
+Such situations present the problem of a work whose copyright holder cannot be located, despite reasonable efforts. The U.S. Copyright Office has recognized this problem, calling such works [orphan works]({{ '/guide/basics/orphan-works/' | relative_url }}). Educators must make individual decisions concerning their use of such works, including evaluating the risk of liability. Those who proceed with their use should document and preserve their efforts to locate the copyright holder.
 
 ## Can I copy a printed journal article for my students?
 
@@ -102,4 +102,4 @@ Yes. Section 110 of U.S. Copyright Law permits showing a lawfully acquired video
 
 ## What is the TEACH Act?
 
-The TEACH Act is a revision of the U.S. Copyright Act which allows instructors to perform or display copyrighted works in a distance education setting. The Act has many potential advantages for the use of digital technology in teaching. In order to take advantage of these benefits, however, instructors, technologists, and institutions must meet numerous detailed requirements. For more information, see the section devoted to the [TEACH Act](#TEACH).
+The TEACH Act is a revision of the U.S. Copyright Act which allows instructors to perform or display copyrighted works in a distance education setting. The Act has many potential advantages for the use of digital technology in teaching. In order to take advantage of these benefits, however, instructors, technologists, and institutions must meet numerous detailed requirements. For more information, see the section devoted to the [TEACH Act]({{ '/guide/teaching/teach-act/' | relative_url }}).

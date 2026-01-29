@@ -12,7 +12,7 @@ Before you decide to use an orphan work, first consider the following alternativ
 
 ## Return to fair use
 
-When you originally evaluated fair use, you may have focused on an assumption about the "potential market" for the work in question, and the possible harm to that market caused by your use of the work. If you discover that there is truly no permissions market for this work, you should reevaluate the fourth factor in the fair use analysis. You may find that this factor now weighs in favor of fair use. For more information, see the [fair use](#whatisfairuse) page.
+When you originally evaluated fair use, you may have focused on an assumption about the "potential market" for the work in question, and the possible harm to that market caused by your use of the work. If you discover that there is truly no permissions market for this work, you should reevaluate the fourth factor in the fair use analysis. You may find that this factor now weighs in favor of fair use. For more information, see the [fair use]({{ '/guide/basics/fair-use/' | relative_url }}) page.
 
 ## Replace the materials with alternative works
 

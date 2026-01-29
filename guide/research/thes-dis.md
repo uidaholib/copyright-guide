@@ -8,7 +8,7 @@ nav_order: 6
 
 When you prepare your thesis or dissertation, you are both author and copyright holder of the original work, as well as a user of other people's copyrighted works.
 
-When you use other people's works or incorporate third-party content into your work, your use must either be authorized under the [fair use](#whatisfairuse) exception or [permission](#permission) must be sought from the copyright holder.
+When you use other people's works or incorporate third-party content into your work, your use must either be authorized under the [fair use]({{ '/guide/basics/fair-use/' | relative_url }}) exception or [permission]({{ '/guide/teaching/permission/' | relative_url }}) must be sought from the copyright holder.
 
 ## Publishing Your Thesis or Dissertation
 

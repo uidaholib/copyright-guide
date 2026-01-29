@@ -36,7 +36,7 @@ In order to take advantage of these benefits, instructors and institutions must 
 
 While the TEACH Act thus expands the scope of educators' rights to perform and display works for distance education, the new law still contrasts markedly from the "classroom exemption" provision of Section 110(1) that provides an absolute exemption to the exclusive rights of the copyright holder for performances and displays in face-to-face classroom instruction. In a classroom environment an educator may show or perform any work, regardless of format, with no permission required and without paying royalties; under the TEACH Act, the same educator would have to scale back some of those materials to show them to distant students.
 
-The opportunities for applying the TEACH Act may be limited in scope, but keep in mind that you can always fall back on [fair use](#whatisfairuse) when deciding whether or not to use copyrighted works in distance education classes.
+The opportunities for applying the TEACH Act may be limited in scope, but keep in mind that you can always fall back on [fair use]({{ '/guide/basics/fair-use/' | relative_url }}) when deciding whether or not to use copyrighted works in distance education classes.
 
 ## Additional Resources on the TEACH Act
 
