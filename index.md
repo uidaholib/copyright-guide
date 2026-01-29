@@ -13,7 +13,7 @@ The library also provides copyright expertise and guidance to the university com
 {% capture policy %}
 The University of Idaho is committed to respecting the rights of copyright holders and complying with copyright law. This website provides information and educational tools to assist faculty, staff, and students in making informed decisions regarding appropriate uses of copyrighted materials.
 
-For further information about copyright, please consult the University of Idaho Faculty Staff Handbook [section 5300](https://www.uidaho.edu/policies/fsh/5/5300) and [section 6580](https://www.uidaho.edu/policies/fsh/6/6580). You can also contact the [library copyright team]((mailto:lib-copyright@uidaho.edu)), or the [University's Office of General Counsel](https://www.uidaho.edu/leadership/general-counsel).
+For further information about copyright, please consult the University of Idaho Faculty Staff Handbook [section 5300](https://www.uidaho.edu/policies/fsh/5/5300) and [section 6580](https://www.uidaho.edu/policies/fsh/6/6580). You can also contact the [library copyright team](mailto:lib-copyright@uidaho.edu), or the [University's Office of General Counsel](https://www.uidaho.edu/leadership/general-counsel).
 
 {% endcapture %}
 {% include feature/card.html header="University of Idaho Copyright Policy" text=policy %}
@@ -36,7 +36,7 @@ The following institutions have graciously permitted the University of Idaho to 
 - [University of California Community](https://copyright.universityofcalifornia.edu/)
 - [University of Connecticut](https://library.uconn.edu/about/policies-2/copyright/)
 - [University of Minnesota](https://www.lib.umn.edu/services/copyright)
-- [Univeristy of Tenessee](https://libguides.utk.edu/c.php?g=1401059&p=10366542)
+- [University of Tennessee](https://libguides.utk.edu/c.php?g=1401059&p=10366542)
 - [University of Washington](https://copyrightresource.uw.edu/)
 - [University System of Georgia](https://www.usg.edu/copyright/)
 - [Washington State University](https://printing.wsu.edu/copyright/)
