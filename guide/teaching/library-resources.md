@@ -18,6 +18,6 @@ For a more comprehensive list of policies regarding electronic database licenses
 | --- | --- |
 | Print, download, or quote limited amounts of information (with proper attribution) | Engage in systematic downloading of licensed content (e.g. download all the articles from an online journal issue or all the chapters from an e-book) |
 | Email an article to another current University faculty, student, or staff member (unless this practice is specifically forbidden by the license) | Email an article to a person who is not a current University faculty, student, or staff (unless this practice is specifically allowed by the license) |
-| Create a link to a journal article on a publisher web site or Library listing | Post a copy of an article to a University server or personal website (e.g. Canvas, departmental website) |
-| Use [Course Reserves](https://www.lib.uidaho.edu/services/reserve/) via the Library to provide access to students | 
+| Create a link to a journal article on a publisher web site or the Library listing | Post a copy of an article to a University server or personal website (e.g. Canvas, departmental website) |
+| Use [Course Reserves](https://www.lib.uidaho.edu/services/reserve/) via the Library to provide access to students | Post a copy of an article directly in an LMS (e.g. Canvas) |
 | Share your reviews and summaries of information with citation | Copy and paste or upload articles, e-books, or other electronic resources into AI resources (ChatGPT, Claude, etc.) (unless this practice is specifically allowed by the license). |
