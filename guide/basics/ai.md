@@ -29,4 +29,5 @@ If AI was used in any part of the creation of your manuscript, including any gra
 * [Report on Copyright and Artificial Intelligence](https://www.copyright.gov/ai/)    
 * [Copyright Registration Guidance for Works Containing AI-Generated Materials](https://www.copyright.gov/ai/ai_policy_guidance.pdf)    
 * [US Copyright Office on AI: Human creativity still matters, legally](https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696) – Article by Miriam Lord, Associate Register of Copyrights and Director of Public Information and Education, published in the World Intellectual Property Organization (WIPO) Magazine   
-* [AI and Copyright](https://copyrightalliance.org/artificial-intelligence-copyright/) – Copyright Alliance 
+* [AI and Copyright](https://copyrightalliance.org/artificial-intelligence-copyright/) – Copyright Alliance
+* [Info2Go! Copyright in the Age of Generative AI: Critical Updates for Librarians](https://www.youtube.com/watch?v=QMtlSIbAymk) - webinar by the Idaho Commission for Libraries 
