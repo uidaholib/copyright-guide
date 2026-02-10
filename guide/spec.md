@@ -10,8 +10,6 @@ The issue of copyright ownership is frequently raised in the course of normal us
 
 It is the patron's personal responsibility to locate the copyright owner and secure permissions to reproduce any materials gathered from Spec in the course of their research.  
 
-For materials originally produced by the University of Idaho or an employee in the course of their work, a formal request for approval to reproduce will be submitted through the [Office of Technology Transfer](https://www.uidaho.edu/research/business-industry-partnerships/office-technology-transfer).  
-
 Nearly all materials may be legally protected by copyright laws, even if they were never published or registered with a copyright office. This means that material within the archives may be copyright protected. Though most archival research is personal or scholarly (and so falls into the category of "Fair Use") it's important to understand how copyright works and how you can use copyrighted materials. 
 
 The copyright holder must license the work or give permission to anyone who wants to reproduce, adapt, distribute, display, or transmit it. To be cautious, assume that all creative works (including audio and video recordings, photographs and other images, documents, writing drafts, and drawings and sketches) are copyright protected unless you can prove otherwise. To re-use copyrighted material in your own work, you may need to seek a license or permission to use the work from the copyright holder. It is the responsibility of the user to determine if their intentions fall within Fair Use, who holds the copyright, and how to obtain permissions. The University of Idaho Library is not liable for any violations of the law by users. (Language adapted from University Libraries at University of Colorado Boulder).
@@ -118,5 +116,11 @@ The legal exception of Fair Use under copyright law allows for the reproduction 
 </table>
 
 <small>Content adapted from Amy Dygent, "Copyright services and the university," Society of American Archivists Annual Meeting 2020.</small>
+
+## Duration of Copyright and Public Domain
+
+A copyright may remain in effect for a long time. Determining the precise term can be complicated and, in the United States, depends on when the work was first created and published. For more information about copyright duration, please see [Duration of Copyright]({{ '/guide/basics/what/#duration-of-copyright' | relative_url }})
+
+The public domain is generally defined as consisting of works that are either ineligible for copyright protecting (including documents authored by the U.S. government) or works whose term of copyright has expired. No permission is needed to copy or use these works. Further information about public domain works and their use can be found in this copyright guide's [Public Domain]({{ '/guide/basics/what/#public-domain' | relative_url }}) section.
 
 If you have questions about copyright or our copyright policies, please contact <libspec@uidaho.edu>.
