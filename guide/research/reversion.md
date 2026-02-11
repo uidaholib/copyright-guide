@@ -16,8 +16,7 @@ Eligibility for terminating a grant of copyright transfer depends on several fac
 
 ### For transfers of copyright that have been made by authors _on_ or _after_ January 1, 1978:
 
-- Termination must occur either 35 years from publication or 40 years from the date of assignment of copyright to a publisher.
-- Termination must occur within a 5 year period or the reversion right is forfeited.
+- The termination window begins 35 years after publication or 40 years after the grant was executed, whichever date occurs earlier, and remains open for 5 years. Termination rights are forfeited if not exercised within this window.
 - Termination notice must be served on copyright holder no later than 2 years before time expires and up to 10 years before beginning of 5 year period.
 
 **Example:** If the work is published in 1978, then the termination window is 2013-2018. The notice must be submitted no later than 2016 and no earlier than 2003.
@@ -28,7 +27,7 @@ Eligibility for terminating a grant of copyright transfer depends on several fac
 - Termination must occur within a 5 year period or the reversion right is forfeited.
 - Termination notice must be served on copyright holder no later than 2 years before time expires and up to 10 years before beginning of 5 year period.
 
-**Example:** If the copyright is secured in 1944, then the termination window is 2009-2014. The notice must be submitted no later than 2012 and no earlier than 1999.
+**Example:** If the copyright is secured in 1944, then the termination window is 2000–2005. The notice must be submitted no later than 2003 and no earlier than 1990.
 
 ## Process
 

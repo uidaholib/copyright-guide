@@ -33,7 +33,7 @@ A copyright may remain in effect for a long time. Determining the precise term c
 - As a general rule, a work published before January 1, 1978 is protected for 95 years from the date of first publication, or 120 years from the date of creation, whichever is longer, though there are numerous exceptions.
 - A work published after January 1, 1978 is protected for the life of the author plus 70 years.
 - Works for hire, anonymous works, and pseudonymous works are protected for the 95-year or 120-year term described above.
-- Works published prior to 1923; works whose term of copyright protection have lapsed; or works that were not subject to copyright protection in the first place (e.g. a work of the U.S. Government), are said to be in the public domain. Such a work may be freely copied, distributed, performed, displayed, or otherwise used in ways unrestricted by copyright law.
+- Works published prior to {{ "now" | date: "%Y" | plus: 0 | minus: 95 }}; works whose term of copyright protection has lapsed; or works that were not subject to copyright protection in the first place (e.g., a work of the U.S. Government), are said to be in the public domain. Such a work may be freely copied, distributed, performed, displayed, or otherwise used in ways unrestricted by copyright law.
 
 ### Additional Resources
 

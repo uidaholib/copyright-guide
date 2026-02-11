@@ -24,21 +24,26 @@ It costs $45 to register your copyright, which you do by filling out certain for
 
 ## Does a work have to be published to be copyrighted?
 
-No, unpublished works are fully protected (in some ways, more protected, at least as to first publication rights) by copyright. That would mean, for example, that an old published letter may have long ago entered the public domain, while an unpublished letter of the same vintage might still enjoy copyright protection. However, a provision in the 1976 Copyright Act, provides that, beginning December of 2002, unpublished works will enter the public domain as soon as their creator has been deceased for seventy years.
+No, unpublished works are fully protected (in some ways, more protected, at least as to first publication rights) by copyright. That would mean, for example, that an old published letter may have long ago entered the public domain, while an unpublished letter of the same vintage might still enjoy copyright protection. 
+
+Under the 1976 Copyright Act, unpublished works created before January 1, 1978 that remained unpublished and unregistered as of December 31, 2002 entered the public domain on that date. By contrast, unpublished works created on or after January 1, 1978 are protected for the standard term of the author’s life plus 70 years.
 
 ## How long does a copyright last?
 
-According to the Constitution, it is supposed to last a "limited time," but that limited time has grown considerably over the years. As of our last Copyright Term Extension Act in 1998, the term of copyright is now the life of the author plus seventy (70) years. If it an anonymous work or a work that belongs to a company, for example, the term is ninety-five (95) years from publication or one hundred twenty (120) years from creation, whichever is shorter.
+According to the Constitution, copyright must last a “limited time,” although Congress has extended that term several times. Under the Copyright Term Extension Act of 1998:
+
+- Works created by an identified individual author: Copyright lasts for the author’s lifetime plus 70 years.
+- Anonymous works, pseudonymous works, and works made for hire: Copyright lasts for 95 years from the date of publication or 120 years from the date of creation—whichever of those two periods ends first.
 
 ## What is the public domain?
 
 A work that is in the public domain may be freely used without any copyright issues. This category includes:
 
-- works with expired or lost copyright;
-- works not copyrightable by nature (i.e. ideas, facts, titles, etc.);
-- works produced by a federal government employees in the course of their job;
-- works clearly donated to the public domain; and
-- works published in the United States prior to 1923.
+- Works whose copyright term has expired;
+- Works not copyrightable by nature (i.e. ideas, facts, titles, etc.);
+- Works produced by a federal government employees in the course of their job;
+- Works clearly donated to the public domain; and
+- Works first published in the United States prior to {{ "now" | date: "%Y" | plus: 0 | minus: 95 }}.
 
 ## If a work is out of print, does that mean it's no longer copyrighted?
 
