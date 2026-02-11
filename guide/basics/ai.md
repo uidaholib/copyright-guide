@@ -16,18 +16,18 @@ _The Section above appears courtesy of [University of Tennessee Copyright Libgui
 
 ## Use of Generative AI in Scholarship 
 
-Individual journals will have their own policies regarding the use of generative AI on submitted manuscripts. Some will allow for its use in specific cases with author disclosure, while others may prohibit it entirely. 
+Individual journals may have their own policies regarding the use of generative AI on submitted manuscripts. Some will allow for its use in specific cases with author disclosure, while others may prohibit it entirely. 
 
 If AI was used in any part of the creation of your manuscript, including any graphics or auxiliary materials, make sure to review the desired journal’s AI policy before completing your submission. Be prepared to submit a disclosure outlining which AI tools were used, on which aspects of the manuscript, and how. (Check out the disclosure framework below to get started.)
  
 
 ## Additional Resources 
 
-* [Artificial Intelligence Disclosure (AID) Framework](https://subjectguides.uwaterloo.ca/AIDFramework) \- Kari D. Weaver, University of Waterloo   
+* [Artificial Intelligence Disclosure (AID) Framework](https://subjectguides.uwaterloo.ca/AIDFramework) - Kari D. Weaver, University of Waterloo   
 * A guide for creating an AI disclosure statement (handout and rubric PDFs)   
 * U.S. Copyright Office   
 * [Report on Copyright and Artificial Intelligence](https://www.copyright.gov/ai/)    
 * [Copyright Registration Guidance for Works Containing AI-Generated Materials](https://www.copyright.gov/ai/ai_policy_guidance.pdf)    
-* [US Copyright Office on AI: Human creativity still matters, legally](https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696) – Article by Miriam Lord, Associate Register of Copyrights and Director of Public Information and Education, published in the World Intellectual Property Organization (WIPO) Magazine   
-* [AI and Copyright](https://copyrightalliance.org/artificial-intelligence-copyright/) – Copyright Alliance
+* [US Copyright Office on AI: Human creativity still matters, legally](https://www.wipo.int/en/web/wipo-magazine/articles/us-copyright-office-on-ai-human-creativity-still-matters-legally-73696) - Article by Miriam Lord, Associate Register of Copyrights and Director of Public Information and Education, published in the World Intellectual Property Organization (WIPO) Magazine   
+* [AI and Copyright](https://copyrightalliance.org/artificial-intelligence-copyright/) - Copyright Alliance
 * [Info2Go! Copyright in the Age of Generative AI: Critical Updates for Librarians](https://www.youtube.com/watch?v=QMtlSIbAymk) - webinar by the Idaho Commission for Libraries 

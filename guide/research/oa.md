@@ -40,9 +40,9 @@ Another strategy for retaining and assigning your copyright is to publish your w
 The University of Idaho Library maintains a number of resources to facilitate open access publishing: 
 
 - [Open Access Publishing Fund](https://www.lib.uidaho.edu/open/oapf/) - Each fall and spring semester, limited funding is available for faculty, staff, and graduate students to cover APCs
-- [VERSO](https://www.lib.uidaho.edu/verso/) – The U of I institutional repository can host open access versions of articles and other research
-- [Transformative Publishing Agreements](https://www.lib.uidaho.edu/services/agreements/) – The Library has negotiated with several publishers to reduce and/or waive APCs for U of I faculty, staff, and students
-- [Pressbooks](https://uidaho.pressbooks.pub/) – U of I affiliates can utilize this open access platform to author and/or adapt open educational resources
+- [VERSO](https://www.lib.uidaho.edu/verso/) - The U of I institutional repository can host open access versions of articles and other research
+- [Transformative Publishing Agreements](https://www.lib.uidaho.edu/services/agreements/) - The Library has negotiated with several publishers to reduce and/or waive APCs for U of I faculty, staff, and students
+- [Pressbooks](https://uidaho.pressbooks.pub/) - U of I affiliates can utilize this open access platform to author and/or adapt open educational resources
 
 ## Additional Resources
 

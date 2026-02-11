@@ -27,7 +27,7 @@ Eligibility for terminating a grant of copyright transfer depends on several fac
 - Termination must occur within a 5 year period or the reversion right is forfeited.
 - Termination notice must be served on copyright holder no later than 2 years before time expires and up to 10 years before beginning of 5 year period.
 
-**Example:** If the copyright is secured in 1944, then the termination window is 2000–2005. The notice must be submitted no later than 2003 and no earlier than 1990.
+**Example:** If the copyright is secured in 1944, then the termination window is 2000-2005. The notice must be submitted no later than 2003 and no earlier than 1990.
 
 ## Process
 
