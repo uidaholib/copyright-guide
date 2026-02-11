@@ -14,8 +14,8 @@
 # in the templates via {{ site.myvariable }}.
 title: U of I Library Copyright Guide
 description: The University of Idaho Library provides copyright expertise and guidance to the university community through consultation and through this copyright guide. We aim to provide information and educational tools to assist faculty, staff, and students in making informed decisions regarding appropriate uses of copyrighted materials.
-baseurl: /copyright-guide #/copyright # the subpath of your site, e.g. /blog
-url: https://uidaholib.github.io # "https://www.lib.uidaho.edu" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /copyright #/copyright # the subpath of your site, e.g. /blog
+url: https://www.lib.uidaho.edu # the base hostname & protocol for your site, e.g. http://example.com
 # directory for library media assets
 lib-media: https://www.lib.uidaho.edu/media
 
